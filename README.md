@@ -2,7 +2,7 @@
 
 With Secure Defaults from Checkov
 
-[![Build Status](https://github.com/JamesWoolfenden/terraform-azurerm-app-gateway/workflows/Verify/badge.svg?branch=main)](https://github.com/JamesWoolfenden/terraform-azurerm-app-gateway)
+[![Build Status](https://github.com/JamesWoolfenden/terraform-azurerm-app-gateway/workflows/Verify/badge.svg?branch=master)](https://github.com/JamesWoolfenden/terraform-azurerm-app-gateway)
 [![Latest Release](https://img.shields.io/github/release/JamesWoolfenden/terraform-azurerm-app-gateway.svg)](https://github.com/JamesWoolfenden/terraform-azurerm-app-gateway/releases/latest)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/JamesWoolfenden/terraform-azurerm-app-gateway.svg?label=latest)](https://github.com/JamesWoolfenden/terraform-azurerm-app-gateway/releases/latest)
 ![Terraform Version](https://img.shields.io/badge/tf-%3E%3D0.14.0-blue.svg)
